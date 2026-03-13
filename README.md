@@ -1,4 +1,5 @@
 # GeoWay SatSeg — Building Footprint Extractor
+<video src="img/vid.mov" width="50%" controls></video>
 
 Herramienta de extracción de footprints de edificios desde imágenes satelitales
 y aéreas. Genera polígonos vectoriales georeferenciados en formato GeoJSON.
