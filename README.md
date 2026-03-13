@@ -4,7 +4,7 @@
 Herramienta de extracción de footprints de edificios desde imágenes satelitales
 y aéreas. Genera polígonos vectoriales georeferenciados en formato GeoJSON.
 
-<video src="img/vid.mov" width="50%" controls></video>
+![Demo](img/vid2.gif)
 ---
 
 ## ¿Por qué Python y no la web?
