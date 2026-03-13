@@ -1,0 +1,13 @@
+{
+  "name": "geoway-satseg",
+  "version": "4.0.0",
+  "description": "GeoWay SatSeg - Building Footprint Segmentation",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js",
+    "serve": "npx serve ."
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
